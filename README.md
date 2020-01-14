@@ -1,2 +1,4 @@
 # KeepMyLicI18n
-KeepMyLic 多语言
+
+KeepMyLic Multilingual tips
+KeepMyLic 多语言信息
